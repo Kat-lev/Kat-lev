@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Kat 💖
+
+I'm a student learning full stack development.
+
+Come say hi - I'm nice!
 
 <!--
 **Kat-lev/Kat-lev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
