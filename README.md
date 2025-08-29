@@ -1,8 +1,14 @@
-## Hi, I'm Kat 💖
+# Hi, I'm Kat 💖
 
 I'm a student learning full stack development.
 
 Come say hi - I'm nice!
+
+## Tech stack
+### Front end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+### Back end
+[![My Skills](https://skillicons.dev/icons?i=java,bootstrap,postgresql,postman)](https://skillicons.dev)
 
 <!--
 **Kat-lev/Kat-lev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
