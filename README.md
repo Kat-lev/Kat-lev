@@ -40,7 +40,7 @@ Come say hi – I'm nice!
 
 
 ## 💖 Recent projects  
-**RAIO** – full-stack web application created in React and Python (deployed link and GitHub repo coming soon!) 
+**Reverberacions d'amor i odi** – full-stack web application created in React and Python (deployed link and GitHub repo coming soon!) 
 
 ## 💖 Currently working on  
 - Front-end projects in React, exploring different libraries and frameworks  
