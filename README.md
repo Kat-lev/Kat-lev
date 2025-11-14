@@ -13,6 +13,13 @@ Come say hi – I'm nice!
 - Automating QA testing with Playwright
 
 
+## 💖 Human languages
+![English](https://img.shields.io/badge/English-000000?style=flat) 
+![Español](https://img.shields.io/badge/Español-000000?style=flat) 
+![Français](https://img.shields.io/badge/Français-000000?style=flat) 
+![Català](https://img.shields.io/badge/Català-000000?style=flat)
+
+
 ## 💖 Tech stack  
 
 **Frontend**  
