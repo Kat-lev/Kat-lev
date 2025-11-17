@@ -5,12 +5,12 @@ Come say hi – I'm nice!
 
 
 ## 💖 Recent projects  
-**Reverberacions d'amor i odi** – full-stack web application created in React and Python (deployed link and GitHub repo coming soon). This project was presented at Mozilla Fest, Barcelona in November 2025, and we're now working on RAIO V2!
+**Reverberacions d'amor i odi** – full-stack web application created in React (JS) and Python (deployed link and GitHub repo coming soon). This project was presented at Mozilla Fest, Barcelona in November 2025, and we're now working on RAIO V2!
 
 
 ## 💖 Currently working on  
 - Front-end projects in React, exploring different libraries and frameworks  
-- Automating QA testing with Playwright
+- Automating QA testing with Playwright for my own project with a focus on accessibility and usability through language - once a linguist, always a linguist!
 
 
 ## 💖 Human languages
