@@ -1,16 +1,16 @@
 # Hi, I'm Kat 🐈  
-I'm a recent full-stack bootcamp graduate.  
+I'm a recent full-stack bootcamp grad exploring internationalisation and applying it across my projects.
 
 Come say hi – I'm nice!  
 
 
 ## 💖 Recent projects  
-**Reverberacions d'amor i odi** – full-stack web application created in React (JS) and Python (deployed link and GitHub repo coming soon). This project was presented at Mozilla Fest, Barcelona in November 2025, and we're now working on RAIO V2!
+**Reverberacions d'amor i odi** – full-stack web application created in React (JS) and Python (deployed link and GitHub repo coming soon). This project was presented at Mozilla Fest, Barcelona in November 2025, and we're now working on RAiO V2!
 
 
 ## 💖 Currently working on  
-- Front-end projects in React, exploring different libraries and frameworks  
-- Automating QA testing with Playwright for my own project with a focus on accessibility and usability through language - once a linguist, always a linguist!
+- Mastering i18n architecture! 
+- Automating QA testing with Playwright for my own project with a focus on LQA - once a linguist, always a linguist!
 
 
 ## 💖 Human languages
@@ -23,7 +23,7 @@ Come say hi – I'm nice!
 ## 💖 Tech stack  
 
 **Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![i18n](https://img.shields.io/badge/i18n-000000?style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
