@@ -1,5 +1,5 @@
 # Hi, I'm Kat 🐈  
-I'm a recent full-stack bootcamp grad exploring internationalisation and applying it across my projects.
+I'm a recent full-stack bootcamp grad exploring internationalisation & QA and applying it across my projects.
 
 Come say hi – I'm nice!  
 
