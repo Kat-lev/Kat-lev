@@ -19,6 +19,8 @@ Come say hi – I'm nice!
 ![Français](https://img.shields.io/badge/Français-000000?style=flat) 
 ![Català](https://img.shields.io/badge/Català-000000?style=flat)
 
+I also speak cat
+
 
 ## 💖 Tech stack  
 
