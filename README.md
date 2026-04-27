@@ -11,6 +11,7 @@ Come say hi – I'm nice!
 ## 💖 Currently working on  
 - Mastering i18n architecture! 
 - Automating QA testing with Playwright for my own project with a focus on LQA - once a linguist, always a linguist!
+- Agentic AI using ClaudeCode in a project designed to support my Dad with his health.
 
 
 ## 💖 Human languages
@@ -19,7 +20,7 @@ Come say hi – I'm nice!
 ![Français](https://img.shields.io/badge/Français-000000?style=flat) 
 ![Català](https://img.shields.io/badge/Català-000000?style=flat)
 
-I also speak cat
+I also speak cat.
 
 
 ## 💖 Tech stack  
