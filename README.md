@@ -4,8 +4,10 @@ I'm a recent full-stack bootcamp grad exploring internationalisation & QA and ap
 Come say hi – I'm nice!  
 
 
-## 💖 Recent projects  
-**Reverberacions d'amor i odi** – full-stack web application created in React (JS) and Python (deployed link and GitHub repo coming soon). This project was presented at Mozilla Fest, Barcelona in November 2025, and we're now working on RAiO V2!
+## 💖 Collaborative projects  
+**SheHub** - an interative project where I am working on front end development (React, Typescript and Tailwind) and QA automation within a Design System. My focus is on QA, accessibility and consolidating the i18n architecture.
+
+**Reverberacions d'amor i odi** – full-stack web application created in React (JS) and Python (deployed link and GitHub repo coming soon). This project was presented at Mozilla Fest, Barcelona in November 2025.
 
 
 ## 💖 Currently working on  
@@ -19,9 +21,6 @@ Come say hi – I'm nice!
 ![Español](https://img.shields.io/badge/Español-000000?style=flat) 
 ![Français](https://img.shields.io/badge/Français-000000?style=flat) 
 ![Català](https://img.shields.io/badge/Català-000000?style=flat)
-
-I also speak cat.
-
 
 ## 💖 Tech stack  
 
