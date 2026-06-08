@@ -5,7 +5,7 @@ Come say hi – I'm nice!
 
 
 ## 💖 Collaborative projects  
-**SheHub** - an interative project where I am working on front end development (React, Typescript and Tailwind) and QA automation within a Design System. My focus is on **QA**, **accessibility** and **optimising the i18n** architecture.
+**SheHub** - an iterative project where I am working on front end development (React, Typescript and Tailwind) and QA automation within a Design System. My main focuses are **QA**, **accessibility** and **optimising the i18n** architecture.
 
 **Reverberacions d'amor i odi** – full-stack web application created in React (JS) and Python. This project was presented at Mozilla Fest, Barcelona in November 2025.
 
